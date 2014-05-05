@@ -2,6 +2,15 @@ require 'open-uri'
 require 'json'
 
 class CoordsController < ApplicationController
+
+
+
+
+
+
+
+
+
   def fetch_weather
     @latitude = 33.4219988
     @longitude = -120.083954
