@@ -43,7 +43,7 @@ else
     @daily_summary = parsed_data["daily"]["summary"]
 
 
-  end
+    end
 end
 end
 
